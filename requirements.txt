@@ -1,0 +1,2 @@
+python latest if possible or any verion works
+flask
