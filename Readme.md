@@ -18,8 +18,8 @@ Interactive Security Toggle: A floating UI button that enables/disables Role-Bas
 
 Clone the repository:
 
-git clone https://github.com/aishik356/your-repo-name.git
-cd your-repo-name
+https://github.com/aishik356/Apex-Health-Broken-Access-Control-Simulator.git
+cd Apex-Health-Broken-Access-Control-Simulator
 
 
 Install dependencies:
