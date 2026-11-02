@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 Apex Health: Broken Access Control Simulator
 
 A realistic, interactive web application built with Python and Flask to demonstrate Broken Access Control (BAC) and Insecure Direct Object Reference (IDOR) vulnerabilities.
