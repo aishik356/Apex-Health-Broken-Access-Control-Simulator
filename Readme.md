@@ -67,3 +67,7 @@ RBAC (Role-Based Access Control): Enforcing strict role checks on sensitive admi
 
 Aishik Mitra
 Digital Forensics & Cybersecurity Student | LinkedIn
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
